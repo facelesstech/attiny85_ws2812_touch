@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "attiny_ws2812_strip-rescue")(type "Legacy")(uri "${KIPRJMOD}/attiny_ws2812_strip-rescue.lib")(options "")(descr ""))
+)
